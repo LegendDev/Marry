@@ -1,0 +1,21 @@
+#
+#
+#         MARRY
+# Coded by: LegendDev
+# Thank you for downloading our plugin!
+#
+#
+
+
+# Wether or not to enable the chat prefix
+EnablePrefix: true
+
+# If a player is married this will come up before their name
+# If the above is true change this
+MarriedPrefix: '&c&l<3 '
+
+# The baby's name
+BabyName: '&e%player1% &6and &e%player2% &6Baby'
+
+# The name the baby is given after the baby grows up
+KidName: '&e%player1% &6and &e%player2% &6Kid'

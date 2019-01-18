@@ -1,0 +1,6 @@
+name: Marry
+version: 1.0.1
+author: LegendDev
+main: me.legenddev.legendmarry.Main
+commands:
+  marry:
